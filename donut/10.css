@@ -1,0 +1,33 @@
+body {
+    font-family: 'Comfortaa', sans-serif;
+    background-color: #c0c0c0;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+}
+
+#no {
+    width: 50px;
+    position: absolute;
+}
+
+h2,
+p {
+    text-align: center;
+}
+
+.count-p {
+    font-size: 1.5em;
+    color: navy;
+}
+
+.wrapper {
+    background-color: #c0c0c0;
+    height: 80vh;
+    width: 80%;
+    margin: auto;
+    position: relative;
+    border-radius: 20px;
+}
